@@ -12,7 +12,7 @@ hidden: true
 **Mod**: Mod  2              <br/>
 **Topic**:  Factorials and Recursion  <br/>
 **Amount of time**:  45 minutes to 1 hour <br/>
-**Author**: 
+**Author**: Matthew Mitchell
 
 
 
